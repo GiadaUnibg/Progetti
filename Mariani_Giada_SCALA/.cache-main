@@ -1,0 +1,86 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src -> C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jre1.8.0_65\lib\resources.jar;C:\Program Files\Java\jre1.8.0_65\lib\rt.jar;C:\Program Files\Java\jre1.8.0_65\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_65\lib\jce.jar;C:\Program Files\Java\jre1.8.0_65\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_65\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\Giada\Documents\eclipse_Luna_Scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+2 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\bin\Tris$.class
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\bin\Tris.class
+binary dependencies:
+2 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> C:\Program Files\Java\jre1.8.0_65\lib\rt.jar
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> C:\Users\Giada\Documents\eclipse_Luna_Scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> Tris
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> Tris$
+used names:
+0 items
+product stamps:
+2 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\bin\Tris$.class -> lastModified(1450969060908)
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\bin\Tris.class -> lastModified(1450969060898)
+source stamps:
+1 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> hash(afd6f28aa93b370b9668126fc7630e88bfc44b06)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_65\lib\rt.jar -> lastModified(1447671024259)
+C:\Users\Giada\Documents\eclipse_Luna_Scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1448985452000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_65\lib\rt.jar -> java.lang.Object
+C:\Users\Giada\Documents\eclipse_Luna_Scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Unit
+internal apis:
+1 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAUhezCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAEVHJpc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR1H7NVHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AEFDOlxVc2Vyc1xHaWFkYVxEb2N1bWVudHNcSW5mbzNfQVxQcm9nZXR0aVxNYXJpYW5pX0dpYWRhX1NDQUxBXGJpbnQAQUM6XFVzZXJzXEdpYWRhXERvY3VtZW50c1xJbmZvM19BXFByb2dldHRpXE1hcmlhbmlfR2lhZGFfU0NBTEFcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABSv1vKKqTs3C5ZoEm/HYw6Iv8RLBg==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_SCALA\src\Tris.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUdR+zVR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUM6XFVzZXJzXEdpYWRhXERvY3VtZW50c1xJbmZvM19BXFByb2dldHRpXE1hcmlhbmlfR2lhZGFfU0NBTEFcYmludABBQzpcVXNlcnNcR2lhZGFcRG9jdW1lbnRzXEluZm8zX0FcUHJvZ2V0dGlcTWFyaWFuaV9HaWFkYV9TQ0FMQVxzcmM=
