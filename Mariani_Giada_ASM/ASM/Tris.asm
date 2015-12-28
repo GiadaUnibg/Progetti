@@ -64,20 +64,9 @@ definitions:
 		if(not(fineGioco)) then
 			if(turno = TURNO_UTENTE1) then
 				r_sceltaUtente1[]
-				//if(vincitore)
-					//winner := VINCITORE_UTENTE1
-				//endif
 			else
 				r_sceltaUtente2[]
 			endif
-		//else
-			//if(vincitore) then
-				//if(turno = TURNO_UTENTE1)
-					//winner := VINCITORE_UTENTE1
-				//else
-					//winner := VINCITORE_UTENTE2
-				//endif
-			//endif
 		endif
 		
 // INITIAL STATE
