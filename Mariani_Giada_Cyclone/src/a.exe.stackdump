@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6117AD87
+eax=00000000 ebx=0029CC28 ecx=00000001 edx=00000001 esi=0029B86C edi=00000000
+ebp=611B3F70 esp=0029B6A0 program=C:\Users\Giada\Documents\Info3_A\Progetti\Mariani_Giada_Cyclone\src\a.exe, pid 4780, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
